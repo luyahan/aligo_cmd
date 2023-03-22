@@ -1,0 +1,3 @@
+[submodule "aligo"]
+	path = aligo
+	url = https://github.com/foyoux/aligo.git
